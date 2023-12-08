@@ -32,14 +32,9 @@
     }
   ],
   "summary": {
-    "period": {
-      "start": "2023-11-01",
-      "end": "2023-11-30"
-    },
-    "station": {
-      "code_dgh": "5678AB",
-      "name": "AP MAGIC"
-    },
+    "start": "2023-11-01",
+    "end": "2023-11-30"
+    "code_dgh": "5678AB",
     "data": [
       {
         "products": {
