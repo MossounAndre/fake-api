@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "date": "2023-11-11",
+      "reference": "17291",
+      "products": [
+        {
+          "super": 2000,
+          "gasoil": 2000
+        }
+      ]
+    },
+    {
+      "date": "2023-11-30",
+      "reference": "17191",
+      "products": [
+        {
+          "super": 2000,
+          "gasoil": 2000
+        }
+      ]
+    },
+    {
+      "date": "2023-11-15",
+      "reference": "17291",
+      "products": [
+        {
+          "super": 3000,
+          "gasoil": 2100
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "period": {
+      "start": "2023-11-01",
+      "end": "2023-11-30"
+    },
+    "station": {
+      "code_dgh": "5678AB",
+      "name": "AP MAGIC"
+    },
+    "data": [
+      {
+        "products": {
+          "name": "super",
+          "code": "SUPER_CARBURANT",
+          "quantity": 6500
+        }
+      },
+      {
+        "products": {
+          "name": "gasoil",
+          "code": "GASOIL",
+          "quantity": 15000
+        }
+      }
+    ]
+  }
+}
